@@ -1,0 +1,12 @@
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.exe.config
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.exe
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\ComicBookGalleryModel.pdb
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.dll
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.xml
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csprojAssemblyReference.cache
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csproj.CoreCompileInputs.cache
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.csproj.CopyComplete
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.exe
+C:\Users\bnoel\source\repos\ComicBookGalleryModel\ComicBookGalleryModel\obj\Debug\ComicBookGalleryModel.pdb
